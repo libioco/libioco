@@ -4,13 +4,13 @@
    / __________\     
   | |         | |     hi, i'm darren! i am currently... 
   | |_________| |______________________________________________________________________________
-  \=____________/     - studying cs and finance at the University of Central Florida           )  
-  / """"""""""" \     - traveling                                                             /
- / ::::::::::::: \    - climbing rocks                                                    =D-'
+  \=____________/     - developing software for electrical systems aboard nuclear submarines   )  
+  / """"""""""" \     - bouldering                                                            /
+ / ::::::::::::: \    - nerding out over coffee                                           =D-'
 (_________________)   
 
 
 Check out some of my projects below!
 ```
 
-you can learn more about me [here](https://darrenbansil.me) :]
+you can learn more about me [here](https://dbnsl.net) :]
